@@ -17,7 +17,7 @@ Powered by Node.js, Express, and Socket.io, our Live Chat Web App enables lightn
 Authentication and Security:
 
 
-We take the security and privacy of our users very seriously. Our Live Chat Web App incorporates a robust authentication system using JWT (JSON Web Tokens) Validator and Bcrypt. This ensures that only authorized users have access to the application and its features, preventing unauthorized access and protecting sensitive data. Each user is securely authenticated and assigned a unique token, granting them access to the chat platform.
+We take the security and privacy of our users very seriously. Our Live Chat Web App incorporates a robust authentication system using JWT (JSON Web Tokens), Validator and Bcrypt. This ensures that only authorized users have access to the application and its features, preventing unauthorized access and protecting sensitive data. Each user is securely authenticated and assigned a unique token, granting them access to the chat platform.
 
 
 Context API Integration:
