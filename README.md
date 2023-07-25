@@ -50,7 +50,9 @@ Scalability and Performance:
 With React, React Router v6, Context API, Node.js, and Socket.io working in tandem, our web app delivers unparalleled performance and scalability. It is designed to handle a growing user base without compromising on speed or responsiveness. Socket.io's efficient event-driven communication optimizes server-client interactions, ensuring a seamless flow of messages. Our commitment to excellence in coding practices further ensures a streamlined application structure, optimizing load times and resource utilization, guaranteeing that users experience a high-performance platform at all times.
 
 
+
 Unleash the Power of React, React Router v6, Context API, Node.js, MongoDB, Express, Socket.io, Bootstrap, and a suite of essential packages by embracing our Live Chat Web App. With robust authentication measures, state management, and notifications in place, stay connected, communicate seamlessly, and enjoy the unparalleled experience of secure real-time messaging. Experience the future of live chat today!
+
 
 
 Note: Before you can run our Live Chat Web App, make sure to set up the required environment variables in the respective .env files.
