@@ -77,22 +77,7 @@ Unleash the Power of React, React Router v6, Context API, Node.js, MongoDB, Expr
 Note: Before you can run our Live Chat Web App, make sure to set up the required environment variables in the respective .env files.
 
 
-
-In the client folder's .env file, add:
-
-
-
-
-In the server folder's .env file, add:
-
-
-REACT_APP_SOCKET_SERVER_URL=<socket_server_url>
-
-
-
-
-
-In the socket folder's .env file, add:
+add .env file in the server folder and include: ATLAS_URI and JWT_SECRET_KEY:
 
 
 ATLAS_URI=<your_mongodb_atlas_uri>
@@ -101,14 +86,7 @@ ATLAS_URI=<your_mongodb_atlas_uri>
 JWT_SECRET_KEY=<your_jwt_secret_key>
 
 
-SOCKET_SERVER_PORT=<socket_server_port>
-
-
-Replace <socket_server_url>, <your_mongodb_atlas_uri>, <your_jwt_secret_key>, and <socket_server_port> with the appropriate values.
-
-
-
-Furthermore, to ensure a smooth experience, don't forget to install the necessary node modules by running npm install in the client, server, and socket folders.
+Furthermore, to ensure a smooth experience, don't forget to install the necessary node modules by running "npm install" in the client, server, and socket folders.
 
 
 
