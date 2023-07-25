@@ -1,5 +1,5 @@
 
-Introducing our cutting-edge Live Chat Web Application, meticulously crafted with industry-leading technologies, including React, Node.js, MongoDB, Express, Socket.io, Bootstrap, React Router v6, Context API, and an array of essential packages such as JWT Validator, Bcrypt, and more. This innovative web app is designed to revolutionize the way users interact and communicate in real-time, setting new standards for seamless and secure online conversations.
+Introducing our cutting-edge Live Chat Web Application, meticulously crafted with industry-leading technologies, including React, Node.js, MongoDB, Express, Socket.io, Bootstrap, React Router v6, Context API, and an array of essential packages such as JWT, Validator, Bcrypt, and more. This innovative web app is designed to revolutionize the way users interact and communicate in real-time, setting new standards for seamless and secure online conversations.
 
 
 User Experience:
