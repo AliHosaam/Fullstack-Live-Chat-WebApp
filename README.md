@@ -69,20 +69,11 @@ Scalability and Performance:
 
 
 
-Unleash the Power of React, React Router v6, Context API, Node.js, MongoDB, Express, Socket.io, Bootstrap, and a suite of essential packages by embracing our Live Chat Web App. With robust authentication measures, state management, and notifications in place, stay connected, communicate seamlessly, and enjoy the unparalleled experience of secure real-time messaging. Experience the future of live chat today!
-
-
-
-
 Note: Before you can run our Live Chat Web App, make sure to set up the required environment variables in the respective .env files.
 
 
 add .env file in the server folder and include: ATLAS_URI and JWT_SECRET_KEY:
-
-
 ATLAS_URI=<your_mongodb_atlas_uri>
-
-
 JWT_SECRET_KEY=<your_jwt_secret_key>
 
 
