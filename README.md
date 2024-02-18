@@ -8,8 +8,8 @@ User Experience:
 
 
 
-1. Our Live Chat Web App offers a user-friendly and intuitive interface, ensuring a smooth and engaging experience for all users. Leveraging the power of React and React Router v6, the application delivers dynamic and responsive user interfaces, adapting flawlessly to various devices and screen sizes. Users can easily navigate through different chat rooms and conversations using React Router's declarative routing system, providing a seamless and fluid browsing experience.
-
+    1. Our Live Chat Web App offers a user-friendly and intuitive interface, ensuring a smooth and engaging experience for all users. Leveraging the power of React and React Router v6, the application delivers dynamic and responsive user         interfaces, adapting flawlessly to various devices and screen sizes. Users can easily navigate through different chat rooms and conversations using React Router's declarative routing system, providing a seamless and fluid browsing 
+    experience.
 
 
 Real-Time Communication:
