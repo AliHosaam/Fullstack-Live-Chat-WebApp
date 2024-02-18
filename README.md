@@ -92,6 +92,9 @@ Furthermore, to ensure a smooth experience, don't forget to install the necessar
   Screenshots:
 
   ![Image 15](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/53e543eb-eb88-4735-87c8-93d0c7d4d43e)
+  ![Image 16](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/6960ffc6-2422-426b-9466-aa96651c4007)
+  ![Image 17](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/c7befcba-4b12-412c-8441-f47eaedb31e2)
+  ![Image 18](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/2d593a4f-3450-49c3-949a-94bb1cad7eaf)
      
      
 
