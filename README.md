@@ -89,6 +89,11 @@ JWT_SECRET_KEY=<your_jwt_secret_key>
 Furthermore, to ensure a smooth experience, don't forget to install the necessary node modules by running "npm install" in the client, server, and socket folders.
 
 
+  Screenshots:
 
-Get ready to immerse yourself in a new era of live chat. Clone our repository, configure your environment, and elevate your conversations with our Live Chat Web App!
+      ass
+
+
+
+
 
