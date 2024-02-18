@@ -91,10 +91,10 @@ Furthermore, to ensure a smooth experience, don't forget to install the necessar
 
   Screenshots:
 
-    
+  ![Image 15](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/53e543eb-eb88-4735-87c8-93d0c7d4d43e)
      
      
-![Image 8](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/9db36d98-dd24-4ee5-b511-c63bb361538f)
+
 
 
 
